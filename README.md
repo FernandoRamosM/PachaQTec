@@ -1,0 +1,2 @@
+# PachaQTec
+Proyecto IDAT PachaQTec
